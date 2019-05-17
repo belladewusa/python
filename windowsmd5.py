@@ -1,4 +1,5 @@
 # -*- encoding:utf-8 -*-
+#此脚本用于python3环境
 import hashlib
 import os
 def GetFileMd5(fname):
