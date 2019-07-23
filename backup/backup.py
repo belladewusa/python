@@ -110,7 +110,7 @@ def incr_backup(folder,dest,md5file):
 
 if __name__ == '__main__':
     #要备份的目录
-    folder =r'E:\工作相关'
+    folder =r'E:\test'
     #备份后的tar包目录
     dest=r'D:\file'
     #备份时记录文件MD5值得目录
